@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Memory Log"
+  short_description: "Trace project work and reuse durable documents"
+  default_prompt: "Use $project-memory-log to resume this project, reuse its existing operation log and document catalog, and record the authorized changes with verification limits."
